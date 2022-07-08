@@ -46,6 +46,11 @@ header nav ul li a {
     background-position: center;
     position: relative;
 }
+
+.hero-cta {
+    width: 500px;
+}
+
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
